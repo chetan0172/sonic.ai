@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .perspective-2000 {
+    perspective: 2000px;
+  }
+  .rotate-x-5 {
+    transform: rotateX(5deg);
+  }
+}

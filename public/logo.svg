@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Flower pattern -->
+  <path d="M400 200 C450 300, 550 350, 600 400 C550 450, 450 500, 400 600 C350 500, 250 450, 200 400 C250 350, 350 300, 400 200" stroke="currentColor" fill="none" stroke-width="2"/>
+  <path d="M400 250 C440 330, 520 370, 550 400 C520 430, 440 470, 400 550 C360 470, 280 430, 250 400 C280 370, 360 330, 400 250" stroke="currentColor" fill="none" stroke-width="2"/>
+  <path d="M400 300 C430 360, 490 390, 500 400 C490 410, 430 440, 400 500 C370 440, 310 410, 300 400 C310 390, 370 360, 400 300" stroke="currentColor" fill="none" stroke-width="2"/>
+  
+  <!-- Text -->
+  <text x="50" y="650" font-family="Arial" font-size="120" font-weight="bold" fill="currentColor">Zsonic.ai</text>
+  <text x="50" y="720" font-family="Arial" font-size="40" fill="currentColor">REPURPOSE &amp; MANAGE WITH AI</text>
+</svg>
